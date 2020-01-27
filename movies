@@ -94,38 +94,45 @@ SEEN (since the creation of this list)
 - The House that Jack Built (2018), Lars von Trier.
 - Spider-Man: Into the Spider-Verse (2018), Bob Persichetti, Peter Ramsey, Rodney Rothman.
 - If Beale Street Could Talk (2019), Barry Jenkins.
-- The Favourite (2019), Yorgos Lanthimos.                           +++
-- The Killing of a Sacred Deer (2017), Yorgos Lanthimos.            +
-- Anomalisa (2015), Charlie Kaufman, Duke Johnson.                  ++
-- Alita: Battle Angel (2019), Robert Rodriguez.                     +
-- Vice (2018), Adam McKay.                                          +
-- Profondo rosso (1975), Dario Argento.                             +
-- Suspiria (2018), Luca Guadagnino.                                 --
-- Free Solo (2018), Elizabeth Chai Vasarhelyi, Jimmy Chin.          ++
-- Ash Is Purest White (2018), Jia Zhangke.                          ++
-- Us (2019), Jordan Peele.                                          +
-- El Reino (2018), Rodrigo Sorogoyen.                               +++
-- Le Fabuleux Destin d'Amélie Poulain (2001), Jean-Pierre Jeunet.   ++
-- Les Petits Mouchoirs (2010), Guillaume Canet.
-- The Tribe (2014), Myroslav Slaboshpytskiy.                        ++
-- Long Shot (2019), Jonathan Levine.                                +
-- The Dead Don't Die (2019), Jim Jarmusch.                          --------------
-- Greta (2019), Neil Jordan.                                        --------
-- Le Daim (2019), Quentin Dupieux.                                  +
-- Parasite (2019), Bong Joon-ho.                                    ++
-- Yves (2019), Benoît Forgeard.                                     +
-- Spider-Man: Far From Home (2019), Jon Watts.                      --
-- The Rover (2014), David Michôd.                                   ++
-- John Wick: Chapter 3 – Parabellum (2019), Chad Stahelski.         ++
-- Rojo (2018), Benjamín Naishtat.                                   +
-- Midsommar (2019), Ari Aster.                                      +++
-- Perdrix (2019), Erwan Le Duc.                                     ++
-- Portrait de la jeune fille en feu (2019), Céline Sciamma.         +++
-- First Love (2019), Takashi Miike.                                 +
-- Joker (2019), Todd Phillips.                                      +
-- Les Misérables (2019), Ladj Ly.                                   ++
-- Ad Astra (2019), James Gray.                                      +
-- The Lighthouse (2019), Robert Eggers.                             +
-- Mr. Robot (2015-2019), Sam Esmail.                                +++
-- Star Wars: The Rise of Skywalker (2019), J. J. Abrams.            ---
-- Little Women (2020), Greta Gerwig.                                ++
+
+introducing a new relative notation system
+no indication means a baseline "meh"
+
++++            The Favourite (2019), Yorgos Lanthimos.                           
++              The Killing of a Sacred Deer (2017), Yorgos Lanthimos.            
+++             Anomalisa (2015), Charlie Kaufman, Duke Johnson.                  
++              Alita: Battle Angel (2019), Robert Rodriguez.                     
++              Vice (2018), Adam McKay.                                          
++              Profondo rosso (1975), Dario Argento.                             
+--             Suspiria (2018), Luca Guadagnino.                                 
+++             Free Solo (2018), Elizabeth Chai Vasarhelyi, Jimmy Chin.          
+++             Ash Is Purest White (2018), Jia Zhangke.                          
++              Us (2019), Jordan Peele.                                          
++++            El Reino (2018), Rodrigo Sorogoyen.                               
+++             Le Fabuleux Destin d'Amélie Poulain (2001), Jean-Pierre Jeunet.   
+                Les Petits Mouchoirs (2010), Guillaume Canet.
+++             The Tribe (2014), Myroslav Slaboshpytskiy.                        
++              Long Shot (2019), Jonathan Levine.                                
+-------------- The Dead Don't Die (2019), Jim Jarmusch.                          
+--------       Greta (2019), Neil Jordan.                                        
++              Le Daim (2019), Quentin Dupieux.                                  
+++             Parasite (2019), Bong Joon-ho.                                    
++              Yves (2019), Benoît Forgeard.                                     
+--             Spider-Man: Far From Home (2019), Jon Watts.                      
+++             The Rover (2014), David Michôd.                                   
+++             John Wick: Chapter 3 – Parabellum (2019), Chad Stahelski.         
++              Rojo (2018), Benjamín Naishtat.                                   
++++            Midsommar (2019), Ari Aster.                                      
+++             Perdrix (2019), Erwan Le Duc.                                     
++++            Portrait de la jeune fille en feu (2019), Céline Sciamma.         
++              First Love (2019), Takashi Miike.                                 
++              Joker (2019), Todd Phillips.                                      
+++             Les Misérables (2019), Ladj Ly.                                   
++              Ad Astra (2019), James Gray.                                      
++              The Lighthouse (2019), Robert Eggers.                             
++++            Mr. Robot (2015-2019), Sam Esmail.                                
+---            Star Wars: The Rise of Skywalker (2019), J. J. Abrams.            
+++             Little Women (2020), Greta Gerwig.                                
+---            Deux moi (2019), Cedric Klapisch.
+++             Swallow (2019), Carlo Mirabella-Davis.                                
+-              El Camino (2019), Vince Gilligan.                                
